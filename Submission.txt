@@ -1,0 +1,31 @@
+Nama : Felik Javier
+NPM : 2331057
+Kelas : 5PSIB
+
+Tugas Pertemuan 2 LAB - Kecerdasan Buatan
+
+
+Menilai tingkat kenyamanan (Comfort) sebuah ruangan berdasarkan tingkat kebisingan (noise) yang diukur dengan DB
+Input fuzzy : tingkat Noise dalam satuan dB 
+Output Fuzzy : Tingkat comfort dalam satuan Score
+Sistem menggunakan parameter :
+- Quite = Comfort (Nyaman)
+- Moderate = Medium Comfort (Cukup Nyaman)
+- Loud = Low Comfort (Tidak nyaman)
+
+Input fuzzy : tingkat Noise dalam satuan dB 
+Output Fuzzy : Tingkat comfort dalam satuan Score
+
+dengan metode Mamdani FIS (changing Noises into IF, ELSE untuk mendapatkan value yang pasti) :
+Score :
+    if score >= 70:
+        return 'Nyaman'
+    elif score >= 40:
+        return 'Cukup Nyaman'
+    else:
+        return 'Tidak Nyaman'
+
+
+Sekian, Terima kasih
+Felik
+
