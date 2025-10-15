@@ -1,4 +1,6 @@
-Tugas Laboratorium - Kecerdasan Buatan
+Tugas Lab ke 3
 
-Tugas 1 di Branch Lab1
-Tugas 2 di Branch Lab2
+Exported model pkl
+IPYNB Jupyter notebook file
+Dataset
+Environtment.yml
